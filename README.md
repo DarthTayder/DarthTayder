@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taylor Stephenson</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **My front-end capstone for NSS!**
-
-- 🌱 I’m currently learning **REACT, Python, Javascript**
+- 🌱 I’m an expert with **REACT, Python, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DarthTayder](https://github.com/DarthTayder)
 
