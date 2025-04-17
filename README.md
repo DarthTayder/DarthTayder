@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taylor Stephenson</h1>
+<h1 align="center">Taylor Stephenson</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m an expert with **REACT, Python, Javascript**
